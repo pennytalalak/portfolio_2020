@@ -477,6 +477,10 @@ a.icon {
   background: url("../images/portfolio/thesis/thesiscover.jpg") no-repeat;
 }
 
+.tracksmart-header {
+  background: url("../images/portfolio/tracksmart/tracksmart-header.png") no-repeat;
+}
+
 .no-header{
   padding-bottom: 0px !important;
 }
