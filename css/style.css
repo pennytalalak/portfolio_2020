@@ -664,9 +664,28 @@ a.icon {
 
 /* about section styles
 /* ========================================== */
+#client-img{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#client{
+  margin: 0px;
+}
+
+.client-text{
+  font-size: 18px;
+}
+
+.client-logo{
+  padding: 40px;
+  width: 15%;
+}
+
 #about {
   padding-top: 2.5rem;
-  padding-bottom: 8rem;
+  padding-bottom: 4rem;
 }
 
 #about .col-md-4 {
