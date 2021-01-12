@@ -477,6 +477,10 @@ a.icon {
   background: url("../images/portfolio/bewhere/bewhere-header.jpg") no-repeat;
 }
 
+.crimwatch-header {
+  background: url("../images/portfolio/crimwatch/crimwatch-header.jpg") no-repeat;
+}
+
 .thesis-header {
   background: url("../images/portfolio/thesis/thesiscover.jpg") no-repeat;
 }
@@ -672,6 +676,7 @@ a.icon {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: center;
 }
 
 #client{
@@ -684,7 +689,7 @@ a.icon {
 
 .client-logo{
   padding: 40px;
-  width: 15%;
+  width: 50%;
 }
 
 #about {
