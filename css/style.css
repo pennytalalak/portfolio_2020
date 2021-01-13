@@ -72,8 +72,8 @@ p {
   margin-top: 10px !important;
 }
 
-.link{
-  color: #DF6706;
+.link {
+  color: #df6706;
 }
 
 a {
@@ -245,7 +245,7 @@ nav ul.right {
   margin: 0;
   background: #ffffff;
   -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1); }
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
 }
 
 .sticky nav.transparent .navbar {
@@ -269,7 +269,6 @@ nav ul.right {
     float: left;
   }
 }
-
 
 a.icon {
   font-size: 32px;
@@ -421,15 +420,9 @@ a.icon {
   padding-bottom: 100px;
 }
 
-.about-page{
+.about-page {
   padding-top: 70px !important;
   padding-bottom: 0px !important;
-}
-
-#header .header-thumb {
-  /* background: #ffffff;
-  border: 10px solid #f9f9f9;
-  padding: 62px 20px 62px 20px; */
 }
 
 .header-one .header-thumb,
@@ -477,8 +470,9 @@ a.icon {
   background: url("../images/portfolio/bewhere/bewhere-header.jpg") no-repeat;
 }
 
-.crimwatch-header {
-  background: url("../images/portfolio/crimwatch/crimwatch-header.jpg") no-repeat;
+.servian-header {
+  background: url("../images/portfolio/servian/servian-banner.png") no-repeat;
+  height: 100px;
 }
 
 .thesis-header {
@@ -486,10 +480,11 @@ a.icon {
 }
 
 .tracksmart-header {
-  background: url("../images/portfolio/tracksmart/tracksmart-header.png") no-repeat;
+  background: url("../images/portfolio/tracksmart/tracksmart-header.png")
+    no-repeat;
 }
 
-.no-header{
+.no-header {
   padding-bottom: 0px !important;
 }
 
@@ -515,21 +510,20 @@ a.icon {
   width: 60%;
 }
 
-.list-bold{
+.list-bold {
   font-size: 16px;
 }
 
-.bullet-point{
+.bullet-point {
   margin-top: 20px;
   font-size: 16px;
   color: #777;
   line-height: 28px;
   word-spacing: 1px;
   letter-spacing: 1px;
-
 }
 
-.bullet-list{
+.bullet-list {
   margin: 20px 0px;
 }
 
@@ -672,22 +666,22 @@ a.icon {
 
 /* about section styles
 /* ========================================== */
-#client-img{
+#client-img {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
 }
 
-#client{
+#client {
   margin: 0px;
 }
 
-.client-text{
+.client-text {
   font-size: 18px;
 }
 
-.client-logo{
+.client-logo {
   padding: 40px;
   width: 50%;
 }
@@ -711,28 +705,28 @@ a.icon {
   margin-top: 20px;
 }
 
-#about .subhead{
+#about .subhead {
   font-size: 18px;
 }
 
-#about ul{
+#about ul {
   font-size: 16px;
   color: #777777;
 }
 
-#about .project-list{
+#about .project-list {
   margin-top: 50px;
 }
 
-#about .entrepreneurship{
+#about .entrepreneurship {
   margin-top: 50px;
 }
 
-#about a{
-  font
+#about a {
+  font: auto;
 }
 
-#about .disclaimer{
+#about .disclaimer {
   font-size: 12px;
   font-style: italic;
 }
@@ -832,7 +826,7 @@ a.icon {
   padding-bottom: 0rem;
 }
 
-.clearfix{
+.clearfix {
   margin: 20px 0px;
 }
 
